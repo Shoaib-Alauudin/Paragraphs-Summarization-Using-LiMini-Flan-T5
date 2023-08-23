@@ -57,7 +57,7 @@ pip install streamlit transformers torch
 This project is licensed under the MIT License
 
 ## Acknowledgments
-* The **LaMini-Flan-T5-248M** was fine tune by *Muhammad bin zaid University of Artificial Intelligence* on Top of **Text-To-Text Transfer Transformer (T5)**, which is a large language model develop by Google.
+* The **LaMini-Flan-T5-248M** was fine tune by *Muhammad bin zaid University of Artificial Intelligence* on Top of **Text-To-Text Transfer Transformer (T5)**, which is a large language model developed by Google.
 
 * This project was created as part of a [Streamlit](https://streamlit.io) tutorial to showcase text summarization capabilities.
 
