@@ -29,7 +29,7 @@ pip install streamlit transformers torch
 
 **Note**: To run the application, you have two options:
 
-1.  **Download LaMini-Flan-T5-248M**: You can download the LaMini-Flan-T5-248M model checkpoint from the Hugging Face model hub and place it in the appropriate directory. Update the checkpoint variable in the app.py file with the correct path to the model checkpoint.
+1.  **Download [LaMini-Flan-T5-248M](https://huggingface.co/MBZUAI/LaMini-Flan-T5-248M/tree/main)**: You can download the LaMini-Flan-T5-248M model checkpoint from the Hugging Face model hub and place it in the appropriate directory. Update the checkpoint variable in the app.py file with the correct path to the model checkpoint.
 
 2. **Use Hugging Face Pipeline**: If you don't want to download the model manually, the application uses the Hugging Face pipeline to fetch the model online. This requires an active internet connection during usage.
 
